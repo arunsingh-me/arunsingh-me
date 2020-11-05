@@ -6,4 +6,5 @@
 - 🎯 I want to learn Full-Stack Web Development
 - 💬 Ask me about anything
 - 📫 How to reach me: [Instagram](https://www.instagram.com/ar.ku.sh/ "Say Hi")
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to travel

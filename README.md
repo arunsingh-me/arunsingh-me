@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Google Cloud Platform
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🎯 I want to learn Full-Stack Web Development
-- 💬 Ask me about anything
+- 💬 Ask me about #bitcoin
 - 📫 How to reach me: [Instagram](https://www.instagram.com/ar.ku.sh/ "Say Hi")
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to travel
+- ⚡ Fun fact: How about you click that follow button. 😏

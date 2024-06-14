@@ -1,0 +1,39 @@
+Describe the Business Requirement:
+
+"Our business needed to extract specific information from server logs, such as the number of requests to a particular endpoint, timestamps, and agent IDs. These logs were provided in multiple .log files compressed as .gz files."
+
+Challenge:
+
+"Manually extracting this data was time-consuming and error-prone, and I only had basic knowledge of Python."
+
+3. Solution Using GitHub Copilot (60 seconds)
+
+How Copilot Helped:
+
+"With GitHub Copilot, I was able to write a Python script that processes these log files efficiently. Copilot suggested code snippets that helped me parse the logs, extract the necessary information, and generate an Excel report."
+
+Demo or Example:
+
+Step 2: Highlighting Productivity Gains
+
+"Copilot's suggestions allowed me to handle file reading, regex pattern matching, and data processing, which made the task straightforward despite my limited Python knowledge."
+
+"This automation enabled us to quickly deliver accurate reports, making our team more productive and agile."
+
+4. Benefits and Impact (20 seconds)
+
+Summarize the Advantages:
+
+"Using Copilot, I transformed a complex and time-consuming task into a simple process, significantly improving our response time to business requests."
+
+"This not only boosted our productivity but also allowed us to provide timely insights to the business, enhancing decision-making."
+
+5. Conclusion and Transition to Q&A (10 seconds)
+
+Conclusion:
+
+"In summary, GitHub Copilot helped us automate the extraction of data from server logs, turning a manual process into a quick and efficient one."
+
+Q&A Transition:
+
+"Thank you for your attention. I'm now open to any questions you may have."
